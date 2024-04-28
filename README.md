@@ -85,5 +85,4 @@ The application offers the following functionalities:
 - `exceptions.py`: Custom exception classes.
 - `identified_object.py`: Base class for identified objects.
 =======
-# Curling-League-PyQt5
->>>>>>> b56e1d0c76fd42be0b2de40d0c18146ffe48dc6e
+
